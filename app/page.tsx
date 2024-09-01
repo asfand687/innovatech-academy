@@ -5,10 +5,9 @@ import Footer from "./(components)/Footer";
 
 export default function Home() {
   return (
-    <main className="text-white bg-gradient-to-b from-[#101212] to-[#08201D]">
+    <main>
       <Header/>
       <Courses/>
-      <Footer/>
     </main>
   );
 }
