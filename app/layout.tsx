@@ -3,6 +3,7 @@ import { Inter } from "next/font/google";
 import "./globals.css";
 import Footer from "./(components)/Footer";
 import Navbar from "./(components)/Navbar";
+import { Toaster } from 'react-hot-toast'
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -21,6 +22,7 @@ export default function RootLayout({
       <body className={inter.className}>
         <main className="text-white bg-gradient-to-b from-[#101212] to-[#08201D]">
           <Navbar/>
+          <Toaster/>
           {children}
           <Footer/>
         </main>
