@@ -6,7 +6,7 @@ const Header = () => {
   return (
     <div className="">
       <section className="relative lg:min-h-[600px] pt-24 pb-10 sm:pt-32 sm:pb-16 lg:pb-24">
-        <div className="px-4 mx-auto max-w-7xl sm:px-6 lg:px-8 relative z-20">
+        <div className="px-4 mx-auto max-w-7xl sm:px-6 lg:px-8 relative">
           <div className="max-w-xl mx-auto text-center">
             <h1 className="text-4xl font-bold sm:text-6xl">
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-green-300 to-white">Master the Skills that Power the Modern World</span>
