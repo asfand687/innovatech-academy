@@ -91,5 +91,16 @@ const candidateData = [
     duration: "2 Years",
     board: "IIT Lahore",
     issueDate: "05-01-2025"
+  },
+  {
+    regNumber: 36015753,
+    rollNumber: 212324,
+    name: "Aamir Kayani",
+    fatherName: "M Sharif Kayani",
+    session: "Dec 2022 - Dec 2024",
+    course: "Information Technology",
+    duration: "2 Years",
+    board: "IIT Lahore",
+    issueDate: "02-07-2025"
   }
 ]
