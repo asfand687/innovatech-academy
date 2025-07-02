@@ -80,5 +80,16 @@ const candidateData = [
     duration: "2 Years",
     board: "IIT Pakistan",
     issueDate: "05-01-2022"
+  },
+  {
+    regNumber: 36015751,
+    rollNumber: 212320,
+    name: "Saim Mushtaq",
+    fatherName: "Raja Mushtaq",
+    session: "Dec 2020 - Dec 2022",
+    course: "Information Technology",
+    duration: "2 Years",
+    board: "IIT Lahore",
+    issueDate: "05-01-2025"
   }
 ]
